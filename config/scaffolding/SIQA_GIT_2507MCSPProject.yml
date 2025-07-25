@@ -38,3 +38,9 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2068
+- serviceName: project.siqa_git_2507mcsp.integrations:Copy_Call_TPP
+  packages:
+  - name: SIQA_GIT_2507MCSPProject
+    version: "1.0"
+  - name: TPP_services_in_FCS
+    version: "1.0"
